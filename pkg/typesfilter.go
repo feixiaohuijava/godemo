@@ -1,4 +1,4 @@
-package main
+package pkg
 
 // FilterStruct FilterStuct filter需要的基础结构体
 //field             等于                  exact
