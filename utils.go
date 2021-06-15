@@ -1,10 +1,10 @@
-package utils
+package main
 
 import (
 	"fmt"
 	"time"
 )
 
-func PrintNow()  {
+func PrintNow() {
 	fmt.Println(time.Now())
 }
